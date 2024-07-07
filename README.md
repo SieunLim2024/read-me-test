@@ -77,10 +77,11 @@
 <br/>
 # 🔒 보안
 - SHA-256
-- Bcrypt ajax
+- Bcrypt
   
 # 📡 성능
-- ajax, Connection Pool
+- ajax
+- Connection Pool
 
 <br/><br/>
 
